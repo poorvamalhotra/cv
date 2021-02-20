@@ -1,0 +1,23 @@
+/*here in this style section whatever we'ill write it will affect that code
+for eg coding in body{} affect the body*/
+body {
+  background-color: #ffebef;
+}
+
+hr {
+  background-color: #413c69;
+  border-style: none;
+  height: 2px;
+}
+
+/*SELECTORS*/
+h1 {text-align: center;color: #350b40;font-style: oblique;font-size: 80px;}
+a { background-color: #0a043c;color: #f9f871;}
+h2{text-align: center;}
+/*Class SELECTORS*/
+.first { background-color:#d3e0ea;color:#09015f;}
+.circular{border-radius: 100%}
+
+/*ID SELECTORS*/
+#second{ background-color:#d3e0ea;color:#09015f}
+#tab{background-color:#e36bae;}
